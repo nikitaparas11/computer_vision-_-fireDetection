@@ -1,7 +1,6 @@
 # computer_vision-_-fireDetection
 This Python script is designed to detect fire-like colors in a video feed captured from a webcam using computer vision techniques. It uses the OpenCV library for video capture, image processing, and object detection, and NumPy for numerical operations. The primary goal of this system is to identify areas within the frame that exhibit fire-like colors, highlight them with bounding boxes, and display a message indicating that fire has been detected.
 
-Here’s a breakdown of the code and how it works:
 
 1. Imports and Setup
 cv2 (OpenCV) and numpy are imported to handle image processing tasks.
